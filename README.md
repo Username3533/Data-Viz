@@ -13,4 +13,3 @@ This project will utilize functional visualizations of data using Matplotlib and
 - Made world map graphing global earthquake data including magnitude using plotly  
 - Made line graph using climate data and compared the highs and lows utilizing matplotlib
 - Datamined GitHub api to retrieve top starred repositores and displayed them in an interactive graph to show the top rated
-
