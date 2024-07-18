@@ -1,4 +1,4 @@
-# Data-Viz  
+## Data-Viz  
 Data visualization project  
 
 # Overview:  
