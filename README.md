@@ -1,5 +1,5 @@
 # Data-Viz  
-Data visualization project  
+Data visualization project 
 
 ## Overview:  
 
