@@ -1,7 +1,5 @@
 from plotly.graph_objs import Bar, Layout, Line
 from plotly import offline
-
-
 from die import Die
 
 die_1 = Die()
